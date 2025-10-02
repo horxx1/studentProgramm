@@ -21,7 +21,7 @@ namespace zadanie
 
             double r = (q + w + e) * 2;
 
-            Console.WriteLine(q + " + " + w + " + " + e + " * 2");
+            Console.WriteLine("(" + q + " + " + w + " + " + e + ")" + " * 2");
             Console.WriteLine("Ответ: " + r);
         }
     }
