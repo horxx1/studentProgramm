@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace zadanie
+namespace ProgrammPos1
 {
     class Program
     {
@@ -21,11 +21,7 @@ namespace zadanie
 
             double r = (q + w + e) * 2;
 
-<<<<<<< Updated upstream
-            Console.WriteLine("(" + q + " + " + w + " + " + e + ")" + " * 2");
-=======
             Console.WriteLine($"({q} + {w} + {e}) * 2");
->>>>>>> Stashed changes
             Console.WriteLine("Ответ: " + r);
         }
     }
