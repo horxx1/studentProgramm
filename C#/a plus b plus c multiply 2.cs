@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,11 +21,9 @@ namespace zadanie
 
             double r = (q + w + e) * 2;
 
-<<<<<<< Updated upstream
-            Console.WriteLine("(" + q + " + " + w + " + " + e + ")" + " * 2");
-=======
+
             Console.WriteLine($"({q} + {w} + {e}) * 2");
->>>>>>> Stashed changes
+
             Console.WriteLine("Ответ: " + r);
         }
     }
