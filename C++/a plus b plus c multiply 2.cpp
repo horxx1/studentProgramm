@@ -20,6 +20,6 @@ int main()
     cin >> e;
 
     double r = (q + w + e) * 2;
-    
-    cout << "(" q + " + " + w + " + " + e ")" " * 2" = r << endl
+
+    cout << "(" << q << " + " << w << " + " << e << ")" << " * " << " 2 " << " = " << r << endl;
 }
