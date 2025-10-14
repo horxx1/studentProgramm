@@ -16,7 +16,7 @@ public class abc2 {
         double c = scanner.nextDouble();
 
         double d = (a + b + c) * 2;
-        System.out.println("(" + a + " + " + b + " + " + c + ")" + " * 2 = " + d);
+        System.out.println("(" + a + " + " + b + " + " + c + ") * 2 = " + d);
 
         scanner.close();
     }
